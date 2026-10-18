@@ -96,3 +96,7 @@ last bake render live when scrolled into view. To re-bake after adding filters:
 1. `python research/thumbserve.py 8767` (static server that accepts the uploads)
 2. open http://localhost:8767/index.html and run `window.__nexusBake()` in the console (progress: `__nexusBakeP`)
 3. `python research/gen_thumbmap.py` (injects thumbs/index.json into index.html), then publish with the thumbs/*.webp files.
+
+## License
+Noncommercial use only: [PolyForm Noncommercial 1.0.0](LICENSE.md). Parts ported from other projects keep their
+original licences; see [THIRD_PARTY.md](THIRD_PARTY.md).
