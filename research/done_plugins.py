@@ -1,0 +1,21 @@
+"""plugins: round-11 queue names (Classic plug-in suites: Eye Candy, Xenofex, KPT, Flaming Pear, Topaz) -> engine ids."""
+DONE_PART = {
+    'plug_emitters': ['Corona (Eye Candy)', 'Fire (Eye Candy)', 'Smoke (Eye Candy)', 'Electrify (Xenofex)'],
+    'plug_snowice': ['Icicles (Eye Candy)', 'Snow Drift (Eye Candy)'],
+    'plug_surfaces': ['Reptile Skin (Eye Candy)', 'Texture Noise (Eye Candy)', 'Classic Mosaic (Xenofex)', 'Crumple (Xenofex)'],
+    'plug_paperfx': ['Burnt Edges (Xenofex)', 'Rip Open (Xenofex)'],
+    'plug_warps': ['Flag (Xenofex)', 'Swerve (Flaming Pear)', 'KPT Goo', 'KPT Projector'],
+    'plug_cosmos': ['Little Fluffy Clouds (Xenofex)', 'KPT SkyEffects', 'LunarCell (Flaming Pear)', 'SolarCell (Flaming Pear)', 'Glitterato (Flaming Pear)'],
+    'plug_lightfx': ['Topaz Glow', 'Topaz Star Effects', 'Constellation (Xenofex)'],
+    'plug_lens': ['Squint (Eye Candy)', 'Topaz Lens Effects'],
+    'kpt_equalizer': ['KPT Equalizer (Bounded Sharpen)'],
+    'kpt_convolver': ['KPT Convolver'],
+    'plug_gloss': ['KPT Gel', 'KPT Materializer', 'Lacquer (Flaming Pear)'],
+    'kpt_reaction': ['KPT Reaction'],
+    'fp_moods': ['Melancholytron (Flaming Pear)', 'Aetherize (Flaming Pear)', 'Hue and Cry (Flaming Pear)'],
+    'xf_television': ['Television (Xenofex)'],
+    'fp_indiaink': ['India Ink (Flaming Pear)'],
+    'topaz_tone': ['Topaz Adjust', 'Topaz ReStyle', 'Topaz B&W Effects'],
+    'topaz_impression': ['Topaz Impression'],
+    'topaz_texture': ['Topaz Texture Effects'],
+}

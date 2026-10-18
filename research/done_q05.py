@@ -1,0 +1,16 @@
+DONE_PART = {
+    "q05_shapemap": ["Squircles (Filter Forge)", "Lamé Curve (Filter Forge)", "Heart Warp (Filter Forge)", "Smooth Remap to Sphere (Filter Forge)"],
+    "q05_lensarray": ["uberLENS (Filter Forge)", "Art Deco Glass Blocks (Filter Forge)", "Bumpy Glass (Filter Forge)", "Bee POV (Filter Forge)", "Bee Honeycomb (Filter Forge)"],
+    "q05_water": ["Rain Ripples (Filter Forge)", "Water Splatter (Filter Forge)", "Under Water Bubbles (Filter Forge)", "Coy's Ripple Surface (Filter Forge)"],
+    "q05_glassy": ["Hot Glass Distortion (Filter Forge)", "Warped Glass (Filter Forge)", "VacuForm (Filter Forge)", "clear jelly (Filter Forge)", "Wamble Bomb (Filter Forge)", "Ripples in Time (Filter Forge)"],
+    "q05_swirls": ["Swirling Dervish (Filter Forge)", "Twisterize (Filter Forge)", "Ultramaki Uzumaki (Filter Forge)", "Image Circle Nudger (Filter Forge)"],
+    "q05_fractalwarp": ["Dragon Distort (Filter Forge)", "Chaos Ripples (Filter Forge)"],
+    "q05_bloat": ["Luminance Bloat (Filter Forge)", "Color Bloat (Filter Forge)", "Offset Madness (Filter Forge)"],
+    "q05_echo": ["Edge Echo (Filter Forge)", "Distorted Echo Mask (Filter Forge)"],
+    "q05_windstreak": ["Fast RGB Wind Separator (Filter Forge)", "The Streaker (Filter Forge)", "Wispy Squimsh (Filter Forge)"],
+    "q05_slicecut": ["Multi Slice (Filter Forge)", "Data Bending (Filter Forge)", "Recutter (Filter Forge)", "Image Smasher (Filter Forge)", "Eroding Pixels (Filter Forge)"],
+    "q05_blocks3d": ["Trixelate (Filter Forge)", "Cube Wall (Filter Forge)", "Image Cube (Filter Forge)"],
+    "q05_spiderweb": ["Distorted Spiderweb (Filter Forge)", "Wet Net (Filter Forge)"],
+    "q05_labels2rgb": ["Labels To RGB (MorphoLibJ)"],
+    "wind": ["Real Wind (Filter Forge)"],
+}

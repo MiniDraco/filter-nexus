@@ -1,0 +1,20 @@
+"""q06: round-14 Filter Forge creative filters + ITK edge potential -> engine ids."""
+DONE_PART = {
+    'q06_ffsketch': ['Crayon Master (Filter Forge)', 'Lost Sketchbook (Filter Forge)', 'Vellum Sketch (Filter Forge)', 'Aqua Sketch (Filter Forge)',
+                     "Pastel 'N Carbon Pencil Artist (Foxxee, Filter Forge)", 'Felt Marker (Filter Forge)', 'Marker Layout (Filter Forge)',
+                     'Technical Drawing (Filter Forge)', 'Chalk and Paint Sketch (Filter Forge)'],
+    'q06_ffhatch': ['Stylized Etching (Filter Forge)', 'Magic Hatchmix (Filter Forge)', 'Minimal Hatched Engraving (Filter Forge)',
+                    'Tri-Lines Hatching (Filter Forge)', 'I Can Draw Manga (Filter Forge)', 'Old Book Illustrator (Filter Forge)'],
+    'q06_ffbrush': ['Radial Acrylic (Filter Forge)', 'Squiggly Brush (Filter Forge)', 'Forkpaint (Filter Forge)', 'Detail Painter (Filter Forge)',
+                    'Egg Tempera, Oil Paint (Filter Forge)'],
+    'q06_ffwash': ['Stoney Painter (Filter Forge)', 'Angel Wash (Filter Forge)', 'Ink Over Paint (Filter Forge)', 'Chinaware painting (Filter Forge)',
+                   'Water Contour (Filter Forge)', 'Paint Capriccio (Filter Forge)'],
+    'q06_ffgeom': ['Stripe Painter (Filter Forge)', 'Triquad Painter (Filter Forge)', 'Americana (Filter Forge)'],
+    'q06_ffpop': ['Old Poster Print (Filter Forge)', 'POPsterize (Filter Forge)', 'Minimalist POP (Filter Forge)', "Overlay '80 (Filter Forge)",
+                  'Pin Up Magazine (Filter Forge)', 'Fake Comics (Filter Forge)'],
+    'q06_ffglow': ['Fiber optic neon (Filter Forge)', 'Glow Wires (Filter Forge)', 'Tron 2.0 Legacy (Filter Forge)'],
+    'q06_ffsurface': ['Delfts blauw (Filter Forge)', 'Peeling Paint (Filter Forge)', 'Spongiform (Filter Forge)', 'Ice Age (Filter Forge)',
+                      'Incinerate (Filter Forge)', 'Insects Storm (Filter Forge)'],
+    'hopeposter': ['Election Poster (Filter Forge)'],
+    'q06_edgepotential': ['Edge potential (ITK)'],
+}

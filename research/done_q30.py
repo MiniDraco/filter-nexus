@@ -1,0 +1,21 @@
+# q30 builder: queue_q30.txt -> engine ids (round 15)
+DONE_PART = {
+    'q30_nikon_pc': ['Dream (Nikon Creative Picture Control)', 'Morning (Nikon Creative Picture Control)', 'Pop (Nikon Creative Picture Control)', 'Sunday (Nikon Creative Picture Control)', 'Somber (Nikon Creative Picture Control)', 'Silence (Nikon Creative Picture Control)', 'Bleached (Nikon Creative Picture Control)', 'Melancholic (Nikon Creative Picture Control)', 'Pure (Nikon Creative Picture Control)', 'Denim (Nikon Creative Picture Control)', 'Toy (Nikon Creative Picture Control)', 'Carbon (Nikon Creative Picture Control)', 'Flat Monochrome (Nikon Picture Control)', 'Deep Tone Monochrome (Nikon Picture Control)', 'Rich Tone Portrait (Nikon Picture Control)'],
+    'q30_paraview_cmaps': ['Citrus (ParaView colormap)', 'Traffic Lights For Deuteranopes (ParaView colormap)', 'Muted Blue-Green (ParaView colormap)', 'Green-Blue Asymmetric Divergent 62Blbc (ParaView colormap)', 'Asymmetrical Earth Tones 6_21b (ParaView colormap)', 'Yellow 15 (ParaView colormap)', 'Haze_green (ParaView colormap)', 'Haze_lime (ParaView colormap)', 'GBBr (ParaView colormap)', 'GYPi (ParaView colormap)', 'GnYlRd (ParaView colormap)', 'BrOrYl (ParaView colormap)'],
+    'q30_robust_vector': ['Vector median filter (Astola 1990)', 'Vector directional filter (Trahanias 1993)', 'Olympic filter (trimmed-extremes mean)', 'Peer group filter (Deng-Kenney 2001)'],
+    'q30_saintmarc': ['Saint-Marc adaptive smoothing (1991)'],
+    'q30_sidewindow': ['Side window filter (Yin 2019)'],
+    'q30_curvature_filter': ['Curvature filter (Gong-Sbalzarini 2017)'],
+    'q30_edge_guided': ['Gradient domain guided filter (Kou 2015)', 'Weighted guided image filter (Li 2015)'],
+    'q30_agingtv': ['AgingTV (EffecTV film ageing)'],
+    'q30_revtv': ['RevTV (Rutt-Etra scan-line displacement)'],
+    'q30_shagadelictv': ['ShagadelicTV (psychedelic rings)'],
+    'q30_simuratv': ['SimuraTV (colour mirror)'],
+    'q30_warptv': ['WarpTV (EffecTV)'],
+    'q30_displaywalltv': ['DisplayWallTV (scrolling video wall)'],
+    'q30_puzzletv': ['PuzzleTV (sliding-block shuffle)'],
+    'q30_vtk_texture': ['Boolean texture (VTK vtkBooleanTexture)', 'Triangular texture (VTK vtkTriangularTexture)'],
+    'q30_linear_kuwahara': ['Linear Kuwahara (Fiji)'],
+    'q30_erdas_crisp': ['Crisp (ERDAS IMAGINE)'],
+    'q30_replace_bad_lines': ['Replace Bad Lines (ERDAS IMAGINE)'],
+}

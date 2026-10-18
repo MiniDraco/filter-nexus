@@ -1,0 +1,13 @@
+DONE_PART = {'q38_wshrink': ['NeighShrink wavelet denoising (Chen 2004)', 'Bivariate shrinkage (Sendur-Selesnick 2002)', 'SURE-LET denoising (Luisier-Blu 2007)'],
+ 'q38_psm': ['Progressive switching median (Wang-Zhang 1999)'],
+ 'q38_rankmed': ['Decision-based median filter (Srinivasan 2007)', 'Center-weighted median filter (Ko-Lee 1991)', 'Rank-conditioned rank-selection filter (Hardie-Barner 1994)'],
+ 'q38_ddf': ['Directional distance filter (Karakos-Trahanias 1997)'],
+ 'q38_dpad': ['Detail-preserving anisotropic diffusion (Aja-Fernandez 2006)'],
+ 'q38_resample3': ['Akima interpolation', 'Lagrange interpolation', 'Magic Kernel Sharp (Costella)', 'Hamming-windowed sinc resampling', 'OMOMS interpolation (Blu-Thevenaz-Unser 2001)', 'Schaum interpolation (1993)'],
+ 'q38_ibp': ['Iterative back-projection SR (Irani-Peleg 1991)'],
+ 'q38_lbp_a': ['CS-LBP center-symmetric LBP (Heikkila 2009)', 'Median binary pattern (Hafiane 2007)', 'Local directional number pattern (Rivera 2013)', 'Elongated LBP (Liao-Chung 2007)'],
+ 'q38_lbp_b': ['Local tetra patterns (Murala 2012)', 'Extended LBP CI/NI/RD/AD-LBP (Liu 2012)'],
+ 'q38_surround': ['Surround-inhibition contour detector (Grigorescu-Petkov 2003)'],
+ 'q38_lbpsharp': ['LBP-based defocus sharpness (Yi-Eramian 2016)'],
+ 'q38_noneighbors': ['No-neighbours deblurring'],
+ 'q38_lsac': ['Local space average colour (Ebner 2007)']}

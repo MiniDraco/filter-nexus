@@ -1,0 +1,757 @@
+[
+ {
+  "name": "Focus Blur",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-focus-blur.html"
+ },
+ {
+  "name": "Gaussian Blur",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-gaussian-blur.html"
+ },
+ {
+  "name": "Lens Blur",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-lens-blur.html"
+ },
+ {
+  "name": "Mean Curvature Blur",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-mean-curvature-blur.html"
+ },
+ {
+  "name": "Median Blur",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-median-blur.html"
+ },
+ {
+  "name": "Pixelize",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-pixelize.html"
+ },
+ {
+  "name": "Selective Gaussian Blur",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-gaussian-blur-selective.html"
+ },
+ {
+  "name": "Variable Blur",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-variable-blur.html"
+ },
+ {
+  "name": "Circular Motion Blur",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-motion-blur-circular.html"
+ },
+ {
+  "name": "Linear Motion Blur",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-motion-blur-linear.html"
+ },
+ {
+  "name": "Zoom Motion Blur",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-motion-blur-zoom.html"
+ },
+ {
+  "name": "Tileable Blur",
+  "group": "Blur",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-tile-blur.html"
+ },
+ {
+  "name": "Antialias",
+  "group": "Enhance",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-antialias.html"
+ },
+ {
+  "name": "Deinterlace",
+  "group": "Enhance",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-deinterlace.html"
+ },
+ {
+  "name": "High Pass",
+  "group": "Enhance",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-high-pass.html"
+ },
+ {
+  "name": "Noise Reduction",
+  "group": "Enhance",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-reduction.html"
+ },
+ {
+  "name": "Red Eye Removal",
+  "group": "Enhance",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-red-eye-removal.html"
+ },
+ {
+  "name": "Symmetric Nearest Neighbor",
+  "group": "Enhance",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-snn-mean.html"
+ },
+ {
+  "name": "Sharpen (Unsharp Mask)",
+  "group": "Enhance",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-unsharp-mask.html"
+ },
+ {
+  "name": "Despeckle",
+  "group": "Enhance",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-despeckle.html"
+ },
+ {
+  "name": "NL Filter",
+  "group": "Enhance",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-nl-filter.html"
+ },
+ {
+  "name": "Wavelet Decompose",
+  "group": "Enhance",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-wavelet-decompose.html"
+ },
+ {
+  "name": "Apply Lens",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-apply-lens.html"
+ },
+ {
+  "name": "Emboss",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-emboss.html"
+ },
+ {
+  "name": "Engrave",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-engrave.html"
+ },
+ {
+  "name": "Lens Distortion",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-lens-distortion.html"
+ },
+ {
+  "name": "Kaleidoscope",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-kaleidoscope.html"
+ },
+ {
+  "name": "Mosaic",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-mosaic.html"
+ },
+ {
+  "name": "Newsprint",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-newsprint.html"
+ },
+ {
+  "name": "Polar Coordinates",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-polar-coordinates.html"
+ },
+ {
+  "name": "Ripple",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-ripple.html"
+ },
+ {
+  "name": "Shift",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-shift.html"
+ },
+ {
+  "name": "Spherize",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-spherize.html"
+ },
+ {
+  "name": "Value Propagate",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-value-propagate.html"
+ },
+ {
+  "name": "Video Degradation",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-video-degradation.html"
+ },
+ {
+  "name": "Waves",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-waves.html"
+ },
+ {
+  "name": "Whirl and Pinch",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-whirl-pinch.html"
+ },
+ {
+  "name": "Wind",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-wind.html"
+ },
+ {
+  "name": "Blinds",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-blinds.html"
+ },
+ {
+  "name": "Curve Bend",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-curve-bend.html"
+ },
+ {
+  "name": "Page Curl",
+  "group": "Distort",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-pagecurl.html"
+ },
+ {
+  "name": "Bloom",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-bloom.html"
+ },
+ {
+  "name": "Supernova",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-supernova.html"
+ },
+ {
+  "name": "Lens Flare",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-lens-flare.html"
+ },
+ {
+  "name": "Gradient Flare",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-gflare.html"
+ },
+ {
+  "name": "Lighting Effects",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-lighting.html"
+ },
+ {
+  "name": "Sparkle",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-sparkle.html"
+ },
+ {
+  "name": "Drop Shadow",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-drop-shadow.html"
+ },
+ {
+  "name": "Long Shadow",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-long-shadow.html"
+ },
+ {
+  "name": "Vignette",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-vignette.html"
+ },
+ {
+  "name": "Drop Shadow (legacy)",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-drop-shadow.html"
+ },
+ {
+  "name": "Perspective",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-perspective-shadow.html"
+ },
+ {
+  "name": "Xach-Effect",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-xach-effect.html"
+ },
+ {
+  "name": "Bevel",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/gegl-bevel.html"
+ },
+ {
+  "name": "Inner Glow",
+  "group": "Light and Shadow",
+  "url": "https://docs.gimp.org/3.0/en/gegl-inner-glow.html"
+ },
+ {
+  "name": "CIE lch Noise",
+  "group": "Noise",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-cie-lch.html"
+ },
+ {
+  "name": "HSV Noise",
+  "group": "Noise",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-hsv.html"
+ },
+ {
+  "name": "Hurl",
+  "group": "Noise",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-hurl.html"
+ },
+ {
+  "name": "Pick",
+  "group": "Noise",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-pick.html"
+ },
+ {
+  "name": "RGB Noise",
+  "group": "Noise",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-rgb.html"
+ },
+ {
+  "name": "Slur",
+  "group": "Noise",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-slur.html"
+ },
+ {
+  "name": "Spread",
+  "group": "Noise",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-spread.html"
+ },
+ {
+  "name": "Difference of Gaussians",
+  "group": "Edge-Detect",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-difference-of-gaussians.html"
+ },
+ {
+  "name": "Edge",
+  "group": "Edge-Detect",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-edge.html"
+ },
+ {
+  "name": "Laplace",
+  "group": "Edge-Detect",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-edge-laplace.html"
+ },
+ {
+  "name": "Neon",
+  "group": "Edge-Detect",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-edge-neon.html"
+ },
+ {
+  "name": "Sobel",
+  "group": "Edge-Detect",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-edge-sobel.html"
+ },
+ {
+  "name": "Image Gradient",
+  "group": "Edge-Detect",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-image-gradient.html"
+ },
+ {
+  "name": "Convolution Matrix",
+  "group": "Generic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-convolution-matrix.html"
+ },
+ {
+  "name": "Distance Map",
+  "group": "Generic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-distance-map.html"
+ },
+ {
+  "name": "Normal Map",
+  "group": "Generic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-normal-map.html"
+ },
+ {
+  "name": "Dilate",
+  "group": "Generic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-dilate.html"
+ },
+ {
+  "name": "Erode",
+  "group": "Generic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-erode.html"
+ },
+ {
+  "name": "GEGL Graph",
+  "group": "Generic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-gegl-graph.html"
+ },
+ {
+  "name": "Text Styling",
+  "group": "Generic",
+  "url": "https://docs.gimp.org/3.0/en/gegl-styles.html"
+ },
+ {
+  "name": "Depth Merge",
+  "group": "Combine",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-depth-merge.html"
+ },
+ {
+  "name": "Filmstrip",
+  "group": "Combine",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-film.html"
+ },
+ {
+  "name": "Apply Canvas",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-apply-canvas.html"
+ },
+ {
+  "name": "Cartoon",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-cartoon.html"
+ },
+ {
+  "name": "Cubism",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-cubism.html"
+ },
+ {
+  "name": "Glass Tile",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-tile-glass.html"
+ },
+ {
+  "name": "Oilify",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-oilify.html"
+ },
+ {
+  "name": "Photocopy",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-photocopy.html"
+ },
+ {
+  "name": "Simple Linear Iterative Clustering (SLIC)",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-slic.html"
+ },
+ {
+  "name": "Softglow",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-softglow.html"
+ },
+ {
+  "name": "Waterpixels",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-waterpixels.html"
+ },
+ {
+  "name": "Clothify",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-clothify.html"
+ },
+ {
+  "name": "GIMPressionist",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-gimpressionist.html"
+ },
+ {
+  "name": "Van Gogh (LIC)",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-lic.html"
+ },
+ {
+  "name": "Weave",
+  "group": "Artistic",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-weave.html"
+ },
+ {
+  "name": "Add Bevel",
+  "group": "Decor",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-add-bevel.html"
+ },
+ {
+  "name": "Add Border",
+  "group": "Decor",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-addborder.html"
+ },
+ {
+  "name": "Fog",
+  "group": "Decor",
+  "url": "https://docs.gimp.org/3.0/en/python-fu-foggify.html"
+ },
+ {
+  "name": "Fuzzy Border",
+  "group": "Decor",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-fuzzy-border.html"
+ },
+ {
+  "name": "Old Photo",
+  "group": "Decor",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-old-photo.html"
+ },
+ {
+  "name": "Round Corners",
+  "group": "Decor",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-round-corners.html"
+ },
+ {
+  "name": "Slide",
+  "group": "Decor",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-slide.html"
+ },
+ {
+  "name": "Stain",
+  "group": "Decor",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-coffee-stain.html"
+ },
+ {
+  "name": "Stencil Carve",
+  "group": "Decor",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-carve-it.html"
+ },
+ {
+  "name": "Stencil Chrome",
+  "group": "Decor",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-sota-chrome-it.html"
+ },
+ {
+  "name": "Bump Map",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-bump-map.html"
+ },
+ {
+  "name": "Displace",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-displace.html"
+ },
+ {
+  "name": "Fractal Trace",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-fractal-trace.html"
+ },
+ {
+  "name": "Illusion",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-illusion.html"
+ },
+ {
+  "name": "Little Planet",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-little-planet.html"
+ },
+ {
+  "name": "Panorama Projection",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-panorama-projection.html"
+ },
+ {
+  "name": "Recursive Transform",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-recursive-transform.html"
+ },
+ {
+  "name": "Paper Tile",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-tile-paper.html"
+ },
+ {
+  "name": "Tile Seamless",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-tile-seamless.html"
+ },
+ {
+  "name": "Map Object",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-map-object.html"
+ },
+ {
+  "name": "Small Tiles",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-small-tiles.html"
+ },
+ {
+  "name": "Tile",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-tile.html"
+ },
+ {
+  "name": "Warp",
+  "group": "Map",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-warp.html"
+ },
+ {
+  "name": "Flame",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-flame.html"
+ },
+ {
+  "name": "Fractal Explorer",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-fractalexplorer.html"
+ },
+ {
+  "name": "IFS Fractal",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-ifscompose.html"
+ },
+ {
+  "name": "Cell Noise",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-cell.html"
+ },
+ {
+  "name": "Perlin Noise",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-perlin.html"
+ },
+ {
+  "name": "Plasma",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-plasma.html"
+ },
+ {
+  "name": "Simplex Noise",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-simplex.html"
+ },
+ {
+  "name": "Solid Noise",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-noise-solid.html"
+ },
+ {
+  "name": "Difference Clouds",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-difference-clouds.html"
+ },
+ {
+  "name": "Bayer Matrix",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-bayer-matrix.html"
+ },
+ {
+  "name": "Checkerboard",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-checkerboard.html"
+ },
+ {
+  "name": "Diffraction Patterns",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-diffraction-patterns.html"
+ },
+ {
+  "name": "Grid",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-grid.html"
+ },
+ {
+  "name": "Linear Sinusoid",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-linear-sinusoid.html"
+ },
+ {
+  "name": "Maze",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-maze.html"
+ },
+ {
+  "name": "Sinus",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-sinus.html"
+ },
+ {
+  "name": "Spiral",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-spiral.html"
+ },
+ {
+  "name": "Checkerboard (legacy)",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-checkerboard.html"
+ },
+ {
+  "name": "CML Explorer",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-cml-explorer.html"
+ },
+ {
+  "name": "Grid (legacy)",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-grid.html"
+ },
+ {
+  "name": "Jigsaw",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-jigsaw.html"
+ },
+ {
+  "name": "Qbist",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-qbist.html"
+ },
+ {
+  "name": "Circuit",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-circuit.html"
+ },
+ {
+  "name": "Gfig",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-gfig.html"
+ },
+ {
+  "name": "Lava",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-lava.html"
+ },
+ {
+  "name": "Line Nova",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-line-nova.html"
+ },
+ {
+  "name": "Sphere Designer",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-spheredesigner.html"
+ },
+ {
+  "name": "Spyrogimp",
+  "group": "Rendering",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-spyrogimp.html"
+ },
+ {
+  "name": "Image Map",
+  "group": "Web",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-imagemap.html"
+ },
+ {
+  "name": "Semi-Flatten",
+  "group": "Web",
+  "url": "https://docs.gimp.org/3.0/en/gimp-filter-semi-flatten.html"
+ },
+ {
+  "name": "Blend",
+  "group": "Animation",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-blend-anim.html"
+ },
+ {
+  "name": "Burn-In",
+  "group": "Animation",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-burn-in-anim.html"
+ },
+ {
+  "name": "Optimize",
+  "group": "Animation",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-optimize.html"
+ },
+ {
+  "name": "Playback",
+  "group": "Animation",
+  "url": "https://docs.gimp.org/3.0/en/plug-in-animationplay.html"
+ },
+ {
+  "name": "Rippling",
+  "group": "Animation",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-ripply-anim.html"
+ },
+ {
+  "name": "Spinning Globe",
+  "group": "Animation",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-spinning-globe.html"
+ },
+ {
+  "name": "Waves",
+  "group": "Animation",
+  "url": "https://docs.gimp.org/3.0/en/script-fu-waves-anim.html"
+ },
+ {
+  "name": "About",
+  "group": "Animation",
+  "url": "https://docs.gimp.org/3.0/en/gimp-about-dialog.html"
+ }
+]

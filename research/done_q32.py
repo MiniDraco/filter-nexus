@@ -1,0 +1,18 @@
+DONE_PART = {
+    "q32_olyart": ["Pale & Light Color (Olympus Art Filter)", "Gentle Sepia (Olympus Art Filter)", "Light Tone (Olympus Art Filter)", "Dramatic Tone (Olympus Art Filter)", "Grainy Film (Olympus Art Filter)", "Punk (Olympus Art Filter)", "Key Line (Olympus Art Filter)", "Fragmented (Olympus Art Filter)", "White Edge (Olympus Art Effect)"],
+    "q32_olypic": ["i-Enhance (Olympus Picture Mode)", "Color Creator (Olympus Picture Mode)"],
+    "isolate": ["Partial Color (Olympus Art Filter)"],
+    "skinsmooth": ["e-Portrait (Olympus Picture Mode)"],
+    "q32_sonyfx": ["Pop Color (Sony Picture Effect)", "Retro Photo (Sony Picture Effect)", "Soft High Key (Sony Picture Effect)", "High Contrast Monochrome (Sony Picture Effect)"],
+    "q32_sonystyle": ["Autumn Leaves (Sony Creative Style)", "Clear (Sony Creative Style)", "Deep (Sony Creative Style)", "Light (Sony Creative Style)", "Sunset (Sony Creative Style)", "FL (Sony Creative Look)", "IN (Sony Creative Look)", "SH (Sony Creative Look)", "Vivid 2 (Sony Creative Style)"],
+    "q32_fibbokeh": ["Fibonacci bokeh (lygia)"],
+    "q32_rybhue": ["RYB hue shift (lygia artist colour wheel)"],
+    "q32_lygiapal": ["Zorn palette (lygia)", "Wada Sanzo palette (lygia)", "Ridgway palette (lygia)", "Flexoki palette (lygia)"],
+    "q32_reinhardjodie": ["Reinhard-Jodie tonemap"],
+    "q32_untile": ["Untile (Quilez texture-repetition breakup)"],
+    "q32_psrdnoise": ["psrdnoise (periodic rotating simplex noise)"],
+    "q32_gerstner": ["Gerstner waves heightmap"],
+    "q32_imovie": ["Blast (iMovie)", "Blockbuster (iMovie)", "Dreamy (iMovie)", "Western (iMovie)", "Camo (iMovie)", "Comic Vintage (iMovie)", "Silent Era (iMovie)"],
+    "q32_gmicfilm": ["Kodak Pro Image 100 (film simulation)", "LomoChrome Color '92 (film simulation)", "Ferrania P30 (film simulation)", "ADOX Silvermax 100 (film simulation)"],
+    "q32_colorslice": ["Color Slice (DaVinci Resolve)"],
+}

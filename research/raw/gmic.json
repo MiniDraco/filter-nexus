@@ -1,0 +1,2202 @@
+[
+ {
+  "name": "Array [Faded]",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Array [Mirrored]",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Array [Random]",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Array [Random Colors]",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Array [Regular]",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Ascii Art",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Chessboard",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Dices",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Drawn Montage",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Extract Objects",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Grid [Cartesian]",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Grid [Hexagonal]",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Grid [Triangular]",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Loose Photos",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Make Seamless [Diffusion]",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Make Seamless [Patch-Based]",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Ministeck",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Montage",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Puzzle",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Shuffle Patches",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Taquin",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tileable Rotation",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tiled Isolation",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tiled Normalization",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tiled Parameterization",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tiled Random Shifts",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tiled Rotation",
+  "group": "Arrays & Tiles",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Bokeh",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Brushify",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Cartoon",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Circle Abstraction",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Cubism",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Cutout",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Diffusion Tensors",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Doodle",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Ellipsionism",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Felt Pen",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Fractalize",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Ghost",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Hard Sketch",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Highlight Bloom",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Hope Poster",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Hough Sketch",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Kuwahara",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Linify",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Lylejk's Painting",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Marker Drawing",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Paint With Brush",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Painting",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Polygonize [Delaunay]",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Polygonize [Energy]",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Poster Edges",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Posterize",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Quadtree Variations",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Rodilius",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Shapeism",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sharp Abstract",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sketch",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth Abstract",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Stringify",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Stylize",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Vector Painting",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Warhol",
+  "group": "Artistic",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "B&W Stencil",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Black & White",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Charcoal",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Colorize [Interactive]",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Colorize [Photographs]",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Colorize [with Colormap]",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Colorize Lineart [Auto-Fill]",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Colorize Lineart [Propagation]",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Colorize Lineart [Smart Coloring]",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Dithering",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Engrave",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Filaments",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Freaky B&W",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Ink Wash",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Pencil",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Pencil Portrait",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Stamp",
+  "group": "Black & White",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Abstraction",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Apply External CLUT",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Apply From CLUT Set",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Basic Adjustments",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Boost Chromaticity",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Boost-Fade",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Channel Processing",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Channels to Layers",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "CLUT from After - Before Layers",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Color Balance",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Color Blindness",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Color Presets",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Colorful Blobs",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Colormap",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Color Mask [Interactive]",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Curves",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Customize CLUT",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Decompose Channels",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Detect Skin",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Equalize HSV",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Equalize HSI-HSL-HSV",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mixer [CMYK]",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mixer [Generic]",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mixer [HSV]",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mixer [Lab]",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mixer [PCA]",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mixer [RGB]",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mixer [YCbCr]",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Random Color Transformation",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Retinex",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Retro Fade",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Select-Replace Color",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Selective Desaturation",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sepia",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Simulate Film",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Transfer Colors [Multi]",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tune HSV Colors",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "User-Defined",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Vibrance",
+  "group": "Colors",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Convolve",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Curvature",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Difference of Gaussians",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Distance Transform",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Edges",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Edges (Canny)",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Edges Offsets",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Extract Foreground [Interactive]",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Gradient Norm",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Gradient RGB",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Isophotes",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Laplacian",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Local Orientation",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Morphological Filter",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Segmentation",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Skeleton",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Super-Pixels",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Thin Edges",
+  "group": "Contours",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Breaks",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Cartesian Transform",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Circle Transform",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Conformal Maps",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Crease",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Distort [RBF]",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Distort Lens",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Drop Water",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Equirectangular to Nadir-Zenith",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Euclidean - Polar",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Fish-Eye",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Flower",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Heightfield Warp",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Kaleidoscope [Blended]",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Kaleidoscope [Polar]",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Kaleidoscope [Symmetry]",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Morph [Interactive]",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Perspective",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Poincaré Disk",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Polar Transform",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Quadrangle",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Raindrops",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Random",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Reflection",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Ripple",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Seamcarve",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sphere",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Spherize",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Square to Circle",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Square to Circle [alt]",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Stereographic Projection",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Symmetrize",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Textured Glass",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Twirl",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Warp [Interactive]",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Warp [RBF]",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Water",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Wave",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Wind",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Zoom",
+  "group": "Deformations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Add Grain",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blur [Angular]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blur [Bloom]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blur [Depth-of-Field]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blur [Gaussian]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blur [Glow]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blur [Linear]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blur [Motion]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blur [Multidirectional]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blur [Radial]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Chromatic Aberrations",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "CRT Phosphors",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "CRT Scanlines",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Dirty",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Flip & Rotate Blocks",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Huffman Glitches",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "JPEG Artefacts",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Lomo",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mess with Bits",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Noise [Additive]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Noise [Gradient]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Noise [Perlin]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Noise [Spread]",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Offset Stripes",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Old-Movie Stripes",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Oldschool 8bits",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Pixel Sort",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Rain & Snow",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Random Shade Stripes",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Rebuild From Similar Blocks",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Scanlines",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Self Glitching",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Streak",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "VHS Filter",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Visible Watermark",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Warp by Intensity",
+  "group": "Degradations",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Details Equalizer",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Equalize Local Histograms",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Freaky Details",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Local Normalization",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Local Processing",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Magic Details",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mighty Details",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sharpen [Alpha]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sharpen [Deblur]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sharpen [Gold-Meinel]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sharpen [Inverse Diffusion]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sharpen [Multiscale]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sharpen [Octave Sharpening]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sharpen [Richardson-Lucy]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sharpen [Shock Filters]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sharpen [Texture]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sharpen [Unsharp Mask]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Split Details [Alpha]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Split Details [Gaussian]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Split Details [Wavelets]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tone Mapping",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tone Mapping [Fast]",
+  "group": "Details",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Droste",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Frame [Blur]",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Frame [Cube]",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Frame [Fuzzy]",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Frame [Mirror]",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Frame [Painting]",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Frame [Pattern]",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Frame [Regular]",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Frame [Round]",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Frame [Smooth]",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Old Photograph",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Polaroid",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tunnel",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Vignette",
+  "group": "Frames",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Bandpass",
+  "group": "Frequencies",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Fourier Analysis",
+  "group": "Frequencies",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Fourier Transform",
+  "group": "Frequencies",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Fourier Watermark",
+  "group": "Frequencies",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Align Layers",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blend [Average All]",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blend [Edges]",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blend [Fade]",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blend [Median]",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blend [Seamless]",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Blend [Standard]",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Colors to Layers",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Fade Layers",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Layers to Tiles",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Morph Layers",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Multiscale Operator",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Pack",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Spatial Blend Multi-Layers",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Stroke",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tiles to Layers",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tones to Layers",
+  "group": "Layers",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Burn",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Drop Shadow",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Drop Shadow 3D",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Equalize Light",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Equalize Shadow",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Guided Light Rays",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Illuminate 2D Shape",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Light Glow",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Light Leaks",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Light Patch",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Light Rays",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Pop Shadows",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Relief Light",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Shadow Patch",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Slice Luminosity",
+  "group": "Lights & Shadows",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Bayer Filter",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Box Fitting",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Camouflage",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Canvas",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Canvas Texture",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Cracks",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Crystal",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Crystal Background",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Halftone",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Halftone [Generic]",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Hearts",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Lava",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Marble",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Maze",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mineral Mosaic",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mosaic",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Op Art",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Organic Fibers",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Pack Ellipses",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Pack Sprites",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Paper Texture",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Pills",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Plaid",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Polka Dots",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Random Color Ellipses",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Random Pattern",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Random Rectangles",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Reaction-Diffusion",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Resynthesize Texture [FFT]",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Resynthesize Texture [Patch-Based]",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Rorschach",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Satin",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Seamless Turbulence",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Shock Waves",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sponge",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Stained Glass",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Stars",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Stencil",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Stripes",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tetris",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Triangular Pattern",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Truchet",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Voronoi",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Weave",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Whirl Drawing",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Whirls",
+  "group": "Patterns",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "2.5D Extrusion",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Blocks",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Colored Object",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Elevation",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Extrusion",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Image Object",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Lathing",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Mesh",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Random Objects",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Algorithm A",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Ball",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Circle Art",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Equation Plot [Parametric]",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Equation Plot [Y=f(X)]",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Generate Random Portrait",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Gradient [Corners]",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Gradient [Custom Shape]",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Gradient [from Curve]",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Gradient [Linear]",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Gradient [Poles]",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Gradient [Radial]",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Gradient [Random]",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Hypotrochoid",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Lightning",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Lissajous",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Mandelbrot - Julia Sets",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Neon Lightning",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Newton Fractal",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Pixel Stretch",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Plasma",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Quick Copyright",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Rainbow",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Random Signature",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Shade Bobs",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sine Curve",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Speech Bubble",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Spline Spirograph",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Superformula",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Symmetric 2D Shape",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Tree",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Turbulence",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Twisted Rays",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Variable-Density Hilbert Curve",
+  "group": "Rendering",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Bayer Reconstruction",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Deinterlace",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Denoise [CNN]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Inpaint [Holes]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Inpaint [Morphological]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Inpaint [Multi-Scale]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Inpaint [Patch-Based]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Inpaint [Transport-Diffusion]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Red-Eye Attenuation",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Remove Hot Pixels",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Anisotropic]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Antialias]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Bilateral]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Diffusion]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Guided]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Mean-Curvature]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Median]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [NL-Means]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Patch-Based]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Patch-PCA]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Perona-Malik]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Selective Gaussian]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Skin]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Thin Brush]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Total Variation]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Smooth [Wavelets]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Solidify",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Upscale [CNN2x]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Upscale [DCCI2x]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Upscale [Diffusion]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Upscale [Scale2x]",
+  "group": "Repair",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Elevation [Animated]",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Extrusion [Animated]",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Image Object [Animated]",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Text Pointcloud",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "3D Tiles",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "B&W Pencil [Animated]",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "B&W Stencil [Animated]",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Cartoon [Animated]",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Edges [Animated]",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Edges on Fire",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Lava Lamp",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Lissajous [Animated]",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Moiré Animation",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Rodilius [Animated]",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Soft Glow [Animated]",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Spatial Transition",
+  "group": "Sequences",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Misc",
+  "group": "Silhouettes",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Cupid",
+  "group": "Silhouettes",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Gear",
+  "group": "Silhouettes",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Heart",
+  "group": "Silhouettes",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sierpinski Triangle",
+  "group": "Silhouettes",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Barnsley Fern",
+  "group": "Silhouettes",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Snowflake",
+  "group": "Silhouettes",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Dragon Curve",
+  "group": "Silhouettes",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Custom Code [Full]",
+  "group": "Various",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Custom Code [Global]",
+  "group": "Various",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Custom Code [Local]",
+  "group": "Various",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Export RGB-565 File",
+  "group": "Various",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Games & Demos",
+  "group": "Various",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Histogram Analysis",
+  "group": "Various",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Import Data",
+  "group": "Various",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Import RGB-565 File",
+  "group": "Various",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Intarsia",
+  "group": "Various",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Sample Image",
+  "group": "Various",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ },
+ {
+  "name": "Solve Maze",
+  "group": "Various",
+  "url": "https://raw.githubusercontent.com/GreycLab/gmic/master/src/gmic_stdlib.gmic"
+ }
+]

@@ -1,0 +1,347 @@
+[
+ {
+  "name": "documentation",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Auto-Level",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Black and White",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Brightness / Contrast",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Brightness",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Contrast",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Curves",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Exposure",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Highlights / Shadows",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Hue / Saturation",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Hue",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Saturation",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Lightness",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Invert Alpha",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Invert Colors",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Levels",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Posterize",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Sepia",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "Temperature and Tint",
+  "group": "Adjustments",
+  "url": "https://paint.net/doc/latest/AdjustmentsMenu.html"
+ },
+ {
+  "name": "documentation",
+  "group": "Effects / Artistic",
+  "url": "https://paint.net/doc/latest/EffectsArtisticMenu.html"
+ },
+ {
+  "name": "Ink Sketch",
+  "group": "Effects / Artistic",
+  "url": "https://paint.net/doc/latest/EffectsArtisticMenu.html"
+ },
+ {
+  "name": "Oil Painting",
+  "group": "Effects / Artistic",
+  "url": "https://paint.net/doc/latest/EffectsArtisticMenu.html"
+ },
+ {
+  "name": "Pencil Sketch",
+  "group": "Effects / Artistic",
+  "url": "https://paint.net/doc/latest/EffectsArtisticMenu.html"
+ },
+ {
+  "name": "documentation",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "Bokeh Blur",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "Fragment Blur",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "Gaussian Blur",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "Median Blur",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "Motion Blur",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "Radial Blur",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "Sketch Blur",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "Square Blur",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "Surface Blur",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "Unfocus",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "Zoom Blur",
+  "group": "Effects / Blurs",
+  "url": "https://paint.net/doc/latest/EffectsBlursMenu.html"
+ },
+ {
+  "name": "documentation",
+  "group": "Effects / Color",
+  "url": "https://paint.net/doc/latest/EffectsColorMenu.html"
+ },
+ {
+  "name": "Quantize",
+  "group": "Effects / Color",
+  "url": "https://paint.net/doc/latest/EffectsColorMenu.html"
+ },
+ {
+  "name": "documentation",
+  "group": "Effects / Distort",
+  "url": "https://paint.net/doc/latest/EffectsDistortMenu.html"
+ },
+ {
+  "name": "Bulge",
+  "group": "Effects / Distort",
+  "url": "https://paint.net/doc/latest/EffectsDistortMenu.html"
+ },
+ {
+  "name": "Crystalize",
+  "group": "Effects / Distort",
+  "url": "https://paint.net/doc/latest/EffectsDistortMenu.html"
+ },
+ {
+  "name": "Dents",
+  "group": "Effects / Distort",
+  "url": "https://paint.net/doc/latest/EffectsDistortMenu.html"
+ },
+ {
+  "name": "Frosted Glass",
+  "group": "Effects / Distort",
+  "url": "https://paint.net/doc/latest/EffectsDistortMenu.html"
+ },
+ {
+  "name": "Morphology",
+  "group": "Effects / Distort",
+  "url": "https://paint.net/doc/latest/EffectsDistortMenu.html"
+ },
+ {
+  "name": "Pixelate",
+  "group": "Effects / Distort",
+  "url": "https://paint.net/doc/latest/EffectsDistortMenu.html"
+ },
+ {
+  "name": "Polar Inversion",
+  "group": "Effects / Distort",
+  "url": "https://paint.net/doc/latest/EffectsDistortMenu.html"
+ },
+ {
+  "name": "Tile Reflection",
+  "group": "Effects / Distort",
+  "url": "https://paint.net/doc/latest/EffectsDistortMenu.html"
+ },
+ {
+  "name": "Twist",
+  "group": "Effects / Distort",
+  "url": "https://paint.net/doc/latest/EffectsDistortMenu.html"
+ },
+ {
+  "name": "documentation",
+  "group": "Effects / Noise",
+  "url": "https://paint.net/doc/latest/EffectsNoiseMenu.html"
+ },
+ {
+  "name": "Add Noise",
+  "group": "Effects / Noise",
+  "url": "https://paint.net/doc/latest/EffectsNoiseMenu.html"
+ },
+ {
+  "name": "Reduce Noise",
+  "group": "Effects / Noise",
+  "url": "https://paint.net/doc/latest/EffectsNoiseMenu.html"
+ },
+ {
+  "name": "documentation",
+  "group": "Effects / Object",
+  "url": "https://paint.net/doc/latest/EffectsObjectMenu.html"
+ },
+ {
+  "name": "Drop Shadow",
+  "group": "Effects / Object",
+  "url": "https://paint.net/doc/latest/EffectsObjectMenu.html"
+ },
+ {
+  "name": "documentation",
+  "group": "Effects / Photo",
+  "url": "https://paint.net/doc/latest/EffectsPhotoMenu.html"
+ },
+ {
+  "name": "Glow",
+  "group": "Effects / Photo",
+  "url": "https://paint.net/doc/latest/EffectsPhotoMenu.html"
+ },
+ {
+  "name": "Red Eye Removal",
+  "group": "Effects / Photo",
+  "url": "https://paint.net/doc/latest/EffectsPhotoMenu.html"
+ },
+ {
+  "name": "Sharpen",
+  "group": "Effects / Photo",
+  "url": "https://paint.net/doc/latest/EffectsPhotoMenu.html"
+ },
+ {
+  "name": "Soften Portrait",
+  "group": "Effects / Photo",
+  "url": "https://paint.net/doc/latest/EffectsPhotoMenu.html"
+ },
+ {
+  "name": "Straighten",
+  "group": "Effects / Photo",
+  "url": "https://paint.net/doc/latest/EffectsPhotoMenu.html"
+ },
+ {
+  "name": "Vignette",
+  "group": "Effects / Photo",
+  "url": "https://paint.net/doc/latest/EffectsPhotoMenu.html"
+ },
+ {
+  "name": "documentation",
+  "group": "Effects / Render",
+  "url": "https://paint.net/doc/latest/EffectsRenderMenu.html"
+ },
+ {
+  "name": "Clouds",
+  "group": "Effects / Render",
+  "url": "https://paint.net/doc/latest/EffectsRenderMenu.html"
+ },
+ {
+  "name": "Julia Fractal",
+  "group": "Effects / Render",
+  "url": "https://paint.net/doc/latest/EffectsRenderMenu.html"
+ },
+ {
+  "name": "Mandelbrot Fractal",
+  "group": "Effects / Render",
+  "url": "https://paint.net/doc/latest/EffectsRenderMenu.html"
+ },
+ {
+  "name": "Turbulence",
+  "group": "Effects / Render",
+  "url": "https://paint.net/doc/latest/EffectsRenderMenu.html"
+ },
+ {
+  "name": "documentation",
+  "group": "Effects / Stylize",
+  "url": "https://paint.net/doc/latest/EffectsStylizeMenu.html"
+ },
+ {
+  "name": "Edge Detect",
+  "group": "Effects / Stylize",
+  "url": "https://paint.net/doc/latest/EffectsStylizeMenu.html"
+ },
+ {
+  "name": "Emboss",
+  "group": "Effects / Stylize",
+  "url": "https://paint.net/doc/latest/EffectsStylizeMenu.html"
+ },
+ {
+  "name": "Outline",
+  "group": "Effects / Stylize",
+  "url": "https://paint.net/doc/latest/EffectsStylizeMenu.html"
+ },
+ {
+  "name": "Relief",
+  "group": "Effects / Stylize",
+  "url": "https://paint.net/doc/latest/EffectsStylizeMenu.html"
+ }
+]

@@ -1,0 +1,18 @@
+DONE_PART = {
+    "q19_cmyksep": ["Gray component replacement (GCR)", "Under color removal (UCR)", "Under color addition (UCA)", "Total area coverage ink limit (TAC)", "Separation preview", "Rich black", "Hexachrome separation", "Extended gamut CMYKOGV separation"],
+    "q19_pressproof": ["Overprint preview", "Dot gain compensation", "Registration error simulation", "Trapping (spread / choke)", "Knockout"],
+    "q19_quadtone": ["Quadtone"],
+    "q19_screens": ["Elliptical dot screen", "Euclidean dot screen", "Hybrid (XM) screening", "Rosette moire simulation"],
+    "q19_bumpboss": ["BumpBoss (Nuke)"],
+    "q19_degrainblue": ["DegrainBlue (Nuke)"],
+    "q19_nukekeyers": ["EdgeExtend (Nuke)", "HueKeyer (Nuke)", "Primatte keyer", "Ultimatte keyer", "IBKGizmo keyer (Nuke)"],
+    "q19_nukerays": ["GodRays (Nuke)", "VolumeRays (Nuke)"],
+    "q19_nuketone": ["CrossTalk (Nuke)", "PLogLin (Nuke)", "SoftClip (Nuke)", "RollOffContrast (Nuke)"],
+    "woodfeatures": ["Morphometric feature classes (r.param.scale)"],
+    "q19_landscape": ["Simpson diversity index (r.li.simpson)", "Pielou evenness (r.li.pielou)", "Class richness (r.li.richness)", "Patch density (r.li.patchdensity)", "Contrast-weighted edge density (r.li.cwed)", "Mean patch size (r.li.mps)"],
+    "q19_stddevcolors": ["Standard-deviation colour rule (r.colors.stddev)"],
+    "q19_tonemapper": ["ACES filmic Hill fit", "ACES filmic Romain Guy fit", "Aldridge filmic", "Day filmic (Insomniac)"],
+    "hablepiecewise": ["Hable updated filmic"],
+    "q19_pse_speed": ["Speed Effect (Elements)"],
+    "q19_pse_oldphoto": ["Old Fashioned Photo (Elements)"],
+}

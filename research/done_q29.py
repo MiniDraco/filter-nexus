@@ -1,0 +1,21 @@
+# q29 builder: queue names covered
+DONE_PART = {
+    'q29_grainybw': ['Grainy B/W (Canon Creative Filter)'],
+    'q29_camart': ['Art Bold (Canon HDR effect)', 'Art Embossed (Canon HDR effect)', 'Art HDR (Casio Art Shot)', 'Dynamic Tone (Fujifilm Advanced Filter)'],
+    'q29_camstyle': ['Faithful (Canon Picture Style)', 'Fine Detail (Canon Picture Style)', 'Forest (Samsung Picture Wizard)', 'Calm (Samsung Picture Wizard)', 'Vivid Landscape (Casio)'],
+    'q29_colorchrome': ['Color Chrome Effect (Fujifilm)', 'Color Chrome FX Blue (Fujifilm)'],
+    'q29_sigmamode': ['FOV Classic Blue (Sigma Color Mode)', 'Cinema (Sigma Color Mode)', 'Warm Gold (Sigma Color Mode)', 'Sunset Red (Sigma Color Mode)', 'Forest Green (Sigma Color Mode)', 'Powder Blue (Sigma Color Mode)', 'FOV Classic Yellow (Sigma Color Mode)'],
+    'q29_leicalook': ['Leica Classic (Leica Look)', 'Leica Contemporary (Leica Look)', 'Leica Eternal (Leica Look)', 'Leica Chrome (Leica Look)'],
+    'q29_office_sketch': ['Cement (Office artistic effect)', 'Chalk Sketch (Office artistic effect)', 'Crisscross Etching (Office artistic effect)', 'Light Screen (Office artistic effect)', 'Line Drawing (Office artistic effect)', 'Pencil Grayscale (Office artistic effect)'],
+    'q29_office_paint': ['Mosaic Bubbles (Office artistic effect)', 'Paint Strokes (Office artistic effect)', 'Pastels Smooth (Office artistic effect)', 'Watercolor Sponge (Office artistic effect)', 'Paint Brush (Office artistic effect)'],
+    'q29_lpm': ['FidelityFX LPM (Luma Preserving Mapper)'],
+    'q29_vrfx': ['VR Blur (seam-aware 360 blur)', 'VR Glow (360)', 'VR Sharpen (360)', 'VR De-Noise (360)'],
+    'q29_vrnoise': ['VR Fractal Noise (360)'],
+    'q29_vrgradient': ['VR Color Gradients (360)'],
+    'q29_vrglitch': ['VR Digital Glitch (360)'],
+    'q29_vrchroma': ['VR Chromatic Aberrations (360)'],
+    'q29_vrplane': ['VR Plane to Sphere'],
+    'q29_cacao': ['FidelityFX CACAO (combined adaptive compute AO)'],
+    'q29_contactshadow': ['Screen-space contact shadows'],
+    'bl_aa': ['MLAA (morphological anti-aliasing, Reshetov)'],
+}

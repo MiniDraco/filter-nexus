@@ -1,0 +1,23 @@
+"""misc builder: round-9 queue names -> engine ids (batch_misc*.js plus existing filters)."""
+DONE_PART = {
+    "saiscale": ["2xSaI", "Super 2xSaI", "Super Eagle"],
+    "hqx": ["hq2x", "hq3x", "hq4x"],
+    "xbrz": ["xBRZ"], "superxbr": ["Super-xBR"], "mmpx": ["MMPX"], "sabr": ["SABR"],
+    "nedi": ["NEDI (edge-directed interpolation)"], "icbi": ["ICBI interpolation"],
+    "fsreasu": ["FSR 1 EASU upscaling"], "bicubicsharp": ["Bicubic sharpener (FSRCNN-style approx.)"],
+    "lcdghost": ["Handheld LCD ghosting"], "fieldblend": ["Interlaced field blend"],
+    "dotdiffusion": ["Dot diffusion (Knuth)"], "dither": ["Stochastic dither"],
+    "redscale": ["Redscale film"], "gateweave": ["Film gate weave"], "emojimosaic": ["Emoji mosaic"],
+    "kimkautz": ["Kim-Kautz consistent"], "icam06": ["iCAM06"], "hablepiecewise": ["Hable piecewise power curves"],
+    "cam16ucs": ["CAM16-UCS"],
+    "kaze": ["KAZE nonlinear scale space", "AKAZE (FED diffusion)"], "loggabor": ["Log-Gabor bank"],
+    "howe": ["Howe binarization"], "superpix2": ["SEEDS superpixels", "LSC superpixels"],
+    "geodesicdist": ["Geodesic distance"], "leveling": ["Leveling"], "convexhull": ["Convex hull (iterative)"],
+    "distxform": ["Signed Maurer distance", "Chamfer distance transform"], "jfa": ["Danielsson distance map"],
+    "derichegauss": ["Recursive Gaussian (Deriche)"], "patchdenoise": ["Patch-based denoising (ITK)"],
+    "confconnected": ["Confidence connected (iterative)"],
+    "levelsetseg": ["Geodesic active contour (fixed iterations)", "Shape detection level set"],
+    "skelprune": ["Binary pruning"],
+    "itkdiffusion": ["Curvature anisotropic diffusion", "Gradient anisotropic diffusion", "Min-max curvature flow", "Curvature flow"],
+    "sharpen": ["Laplacian sharpening (ITK)"], "labelcontour": ["Label contours"],
+}

@@ -1,0 +1,27 @@
+"""science2 builder: round-10 queue names -> engine ids (batch_science2.js plus existing filters)."""
+DONE_PART = {
+    "rgbindex2": ["ExR (excess red)", "ExB (excess blue)", "VEG (Hague vegetative index)", "COM (combined vegetation index)",
+                  "GCC (green chromatic coordinate)", "Woebbecke index (WI)", "MExG (modified excess green)",
+                  "IKAW (Kawashima index)", "NGBDI", "RGRI (red-green ratio)", "Redness index (soil)",
+                  "NDTI (turbidity, red-green)"],
+    # identical formulas already in vegindex: NDI = 128*((G-R)/(G+R)+1) and MPRI = (G-R)/(G+R) are NGRDI; VDVI = (2G-R-B)/(2G+R+B) is GLI
+    "vegindex": ["NDI (Woebbecke)", "MPRI", "VDVI"],
+    "ghs": ["Generalized hyperbolic stretch (GHS)"],
+    "acdnr": ["ACDNR"],
+    "darkstructure": ["Dark Structure Enhance"],
+    "rangemask": ["Range selection mask"],
+    "unpurple": ["Unpurple (star halo)"],
+    "bataineh": ["Bataineh threshold"],
+    "enhspeckle": ["Enhanced Lee filter", "Enhanced Frost filter"],
+    "lumamasks": ["Luminosity masks (Lights / Darks / Midtones)"],
+    "rrim": ["Red Relief Image Map (RRIM)"],
+    "lrm": ["Local Relief Model (LRM)"],
+    "vrm": ["Vector Ruggedness Measure (VRM)"],
+    "convergence": ["Convergence index"],
+    "woodfeatures": ["Wood morphometric features"],
+    "geomorphons": ["Geomorphons"],
+    "devmean": ["Deviation from mean elevation (DEV)"],
+    "d8dir": ["D8 flow direction"],
+    "tanaka": ["Tanaka illuminated contours"],
+    "heteroterrain": ["Hetero terrain (Musgrave)"],
+}

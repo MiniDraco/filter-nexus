@@ -1,0 +1,267 @@
+[
+ {
+  "name": "Dodge",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Burn",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Levels",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Color Adjustment Curves",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Cross-channel color adjustment",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Brightness/Contrast curves",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Color Balance",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Desaturate",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Invert",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Auto Contrast",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "HSV/HSL Adjustment",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Threshold",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Slope, Offset, Power",
+  "group": "Adjust",
+  "url": "https://docs.krita.org/en/reference_manual/filters/adjust.html"
+ },
+ {
+  "name": "Halftone",
+  "group": "Artistic",
+  "url": "https://docs.krita.org/en/reference_manual/filters/artistic.html"
+ },
+ {
+  "name": "Index Color",
+  "group": "Artistic",
+  "url": "https://docs.krita.org/en/reference_manual/filters/artistic.html"
+ },
+ {
+  "name": "Pixelize",
+  "group": "Artistic",
+  "url": "https://docs.krita.org/en/reference_manual/filters/artistic.html"
+ },
+ {
+  "name": "Raindrops",
+  "group": "Artistic",
+  "url": "https://docs.krita.org/en/reference_manual/filters/artistic.html"
+ },
+ {
+  "name": "Oilpaint",
+  "group": "Artistic",
+  "url": "https://docs.krita.org/en/reference_manual/filters/artistic.html"
+ },
+ {
+  "name": "Posterize",
+  "group": "Artistic",
+  "url": "https://docs.krita.org/en/reference_manual/filters/artistic.html"
+ },
+ {
+  "name": "Gaussian Blur",
+  "group": "Blur",
+  "url": "https://docs.krita.org/en/reference_manual/filters/blur.html"
+ },
+ {
+  "name": "Motion Blur",
+  "group": "Blur",
+  "url": "https://docs.krita.org/en/reference_manual/filters/blur.html"
+ },
+ {
+  "name": "Blur",
+  "group": "Blur",
+  "url": "https://docs.krita.org/en/reference_manual/filters/blur.html"
+ },
+ {
+  "name": "Lens Blur",
+  "group": "Blur",
+  "url": "https://docs.krita.org/en/reference_manual/filters/blur.html"
+ },
+ {
+  "name": "Color to Alpha",
+  "group": "Colors",
+  "url": "https://docs.krita.org/en/reference_manual/filters/colors.html"
+ },
+ {
+  "name": "Fast Color Overlay",
+  "group": "Colors",
+  "url": "https://docs.krita.org/en/reference_manual/filters/colors.html"
+ },
+ {
+  "name": "Color Transfer",
+  "group": "Colors",
+  "url": "https://docs.krita.org/en/reference_manual/filters/colors.html"
+ },
+ {
+  "name": "Maximize Channel",
+  "group": "Colors",
+  "url": "https://docs.krita.org/en/reference_manual/filters/colors.html"
+ },
+ {
+  "name": "Minimize Channel",
+  "group": "Colors",
+  "url": "https://docs.krita.org/en/reference_manual/filters/colors.html"
+ },
+ {
+  "name": "Propagate Colors",
+  "group": "Colors",
+  "url": "https://docs.krita.org/en/reference_manual/filters/colors.html"
+ },
+ {
+  "name": "Edge Detection",
+  "group": "Edge Detection",
+  "url": "https://docs.krita.org/en/reference_manual/filters/edge_detection.html"
+ },
+ {
+  "name": "Gaussian High Pass",
+  "group": "Edge Detection",
+  "url": "https://docs.krita.org/en/reference_manual/filters/edge_detection.html"
+ },
+ {
+  "name": "Height to Normal Map",
+  "group": "Edge Detection",
+  "url": "https://docs.krita.org/en/reference_manual/filters/edge_detection.html"
+ },
+ {
+  "name": "Emboss Horizontal Only",
+  "group": "Emboss",
+  "url": "https://docs.krita.org/en/reference_manual/filters/emboss.html"
+ },
+ {
+  "name": "Emboss in all Directions",
+  "group": "Emboss",
+  "url": "https://docs.krita.org/en/reference_manual/filters/emboss.html"
+ },
+ {
+  "name": "Emboss (Laplacian)",
+  "group": "Emboss",
+  "url": "https://docs.krita.org/en/reference_manual/filters/emboss.html"
+ },
+ {
+  "name": "Emboss Vertical Only",
+  "group": "Emboss",
+  "url": "https://docs.krita.org/en/reference_manual/filters/emboss.html"
+ },
+ {
+  "name": "Emboss with Variable depth",
+  "group": "Emboss",
+  "url": "https://docs.krita.org/en/reference_manual/filters/emboss.html"
+ },
+ {
+  "name": "Emboss Horizontal and Vertical",
+  "group": "Emboss",
+  "url": "https://docs.krita.org/en/reference_manual/filters/emboss.html"
+ },
+ {
+  "name": "Small Tiles",
+  "group": "Map",
+  "url": "https://docs.krita.org/en/reference_manual/filters/map.html"
+ },
+ {
+  "name": "Phong Bumpmap",
+  "group": "Map",
+  "url": "https://docs.krita.org/en/reference_manual/filters/map.html"
+ },
+ {
+  "name": "Round Corners",
+  "group": "Map",
+  "url": "https://docs.krita.org/en/reference_manual/filters/map.html"
+ },
+ {
+  "name": "Normalize",
+  "group": "Map",
+  "url": "https://docs.krita.org/en/reference_manual/filters/map.html"
+ },
+ {
+  "name": "Gradient Map",
+  "group": "Map",
+  "url": "https://docs.krita.org/en/reference_manual/filters/map.html"
+ },
+ {
+  "name": "Color Modes",
+  "group": "Map",
+  "url": "https://docs.krita.org/en/reference_manual/filters/map.html"
+ },
+ {
+  "name": "Palettize",
+  "group": "Map",
+  "url": "https://docs.krita.org/en/reference_manual/filters/map.html"
+ },
+ {
+  "name": "Colorspace Modes",
+  "group": "Map",
+  "url": "https://docs.krita.org/en/reference_manual/filters/map.html"
+ },
+ {
+  "name": "Dithering Threshold Modes",
+  "group": "Map",
+  "url": "https://docs.krita.org/en/reference_manual/filters/map.html"
+ },
+ {
+  "name": "Dithering Color Modes",
+  "group": "Map",
+  "url": "https://docs.krita.org/en/reference_manual/filters/map.html"
+ },
+ {
+  "name": "Dithering Alpha Modes",
+  "group": "Map",
+  "url": "https://docs.krita.org/en/reference_manual/filters/map.html"
+ },
+ {
+  "name": "Wave",
+  "group": "Other",
+  "url": "https://docs.krita.org/en/reference_manual/filters/other.html"
+ },
+ {
+  "name": "Random Noise",
+  "group": "Other",
+  "url": "https://docs.krita.org/en/reference_manual/filters/other.html"
+ },
+ {
+  "name": "Reset Transparent",
+  "group": "Other",
+  "url": "https://docs.krita.org/en/reference_manual/filters/other.html"
+ },
+ {
+  "name": "Random Pick",
+  "group": "Other",
+  "url": "https://docs.krita.org/en/reference_manual/filters/other.html"
+ }
+]

@@ -1,0 +1,15 @@
+DONE_PART = {
+    'q34_tekscopes': ['Lightning display (Tektronix)', 'Diamond gamut display (Tektronix)', 'Arrowhead gamut display (Tektronix)', 'Spearhead display (Tektronix)', 'Stop display (log waveform, Tektronix)'],
+    'q34_monitorchk': ['Blue-only monitor check', 'Superwhite / illegal level highlight'],
+    'q34_testsignals': ['PLUGE (picture line-up generation equipment)', 'SMPTE colour bars', 'EBU colour bars', 'ARIB STD-B28 colour bars', 'Multiburst test signal', 'Staircase test signal', 'SDI checkfield (pathological)', 'Bowtie test signal'],
+    'q34_testcards': ['Philips PM5544 test pattern', 'Telefunken FuBK test card', 'BBC Test Card F', 'RCA Indian-head test pattern', 'Siemens star', 'USAF 1951 resolution target', 'ISO 12233 resolution chart'],
+    'q34_safeframes': ['Title-safe / action-safe overlay', 'Camera frame lines overlay'],
+    'q34_demosaic2': ['Kimmel demosaic (1999)', 'ACPI adaptive colour plane interpolation', 'GBTF gradient-based threshold-free demosaic (2010)', 'Residual interpolation demosaic (Kiku 2013)', 'MLRI minimised-Laplacian residual interpolation (2014)', 'Smooth hue transition demosaic (Cok 1987)', 'Laroche-Prescott demosaic (1994)', 'Freeman median demosaic (1988)'],
+    'q34_retinex_spray': ['Random spray Retinex RSR (Provenzi 2007)', 'Light random sprays Retinex (Banic-Loncaric 2013)', 'Termite Retinex (Simone 2014)', 'QBRIX quantile-based Retinex (Gianini 2014)', 'Land path-based Retinex (1971)'],
+    'q34_retinex_fm': ['Frankle-McCann Retinex (1983)', 'McCann99 multiresolution Retinex'],
+    'q34_retinex_pde': ['Retinex PDE formalisation (Morel 2010)'],
+    'q34_amoeba': ['Morphological amoebas (Lerallut 2005)'],
+    'q34_fuzzymorph': ['Fuzzy morphology (Bloch-Maitre)'],
+    'q34_softmorph': ['Soft morphological filters (Koskinen 1991)'],
+    'q34_scroller': ['Sine scroller wave (demoscene)', 'DYCP different-Y character position wave (demoscene)'],
+}

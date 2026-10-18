@@ -1,0 +1,17 @@
+DONE_PART = {
+    'q40_colorset': ['Blend Opposites (Inkscape)', 'Hue to White (Inkscape)', 'Paint Channels (Inkscape)', 'Simulate CMY (Inkscape)', 'Posterized Light Eraser (Inkscape)', 'Monochrome Transparency (Inkscape)'],
+    'q40_poster': ['Poster Draw (Inkscape)', 'Cross Noise Poster (Inkscape)', 'Poster Color Fun (Inkscape)', 'Poster Rough (Inkscape)', 'Light Contour specular line drawing (Inkscape)', 'Old Postcard (Inkscape)', 'Plasticine (Inkscape)'],
+    'q40_liquid': ['Alpha Draw Liquid (Inkscape)', 'Liquid Drawing (Inkscape)'],
+    'q40_displace': ['Chalk and Sponge (Inkscape)', 'Lapping water noise (Inkscape)', 'Rough and Dilate (Inkscape)', 'Blotting Paper (Inkscape)'],
+    'q40_foil': ['Plastify (Inkscape)', 'Tinfoil (Inkscape)', 'Jelly Bump (Inkscape)'],
+    'q40_varnish': ['Thick Acrylic (Inkscape)', 'Wrinkled Varnish (Inkscape)'],
+    'q40_riddled': ['Riddled (Inkscape)'],
+    'q40_bubbly': ['Bubbly Bumps (Inkscape)'],
+    'q40_crackedglass': ['Cracked Glass overlay (Inkscape)'],
+    'q40_jamspread': ['Jam Spread (Inkscape)'],
+    'q40_reliefprint': ['Relief Print (Inkscape)'],
+    'q40_bumpengrave': ['Bump Engraving (Inkscape)'],
+    'q40_velvetbumps': ['Velvet Bumps (Inkscape)'],
+    'q40_softcolors': ['Soft Colors edge glow (Inkscape)'],
+    'q40_contouring': ['Contouring Discrete (Inkscape)', 'Contouring Table (Inkscape)', 'Posterized Blur (Inkscape)'],
+}

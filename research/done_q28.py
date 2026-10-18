@@ -1,0 +1,10 @@
+# q28 builder: queue_q28.txt -> engine ids (G'MIC film CLUTs refitted to 5^3 lattices; detectors)
+DONE_PART = {
+    'q28_gmicfilm_bw': ['Agfa APX 25 (film simulation)', 'Fuji Neopan 1600 (film simulation)', 'Ilford HPS 800 (film simulation)', 'Kodak HIE High-Speed Infrared (film simulation)', 'Rollei IR 400 (film simulation)', 'Rollei Ortho 25 (film simulation)', 'Rollei Retro 100 Tonal (film simulation)', 'Polaroid 664 (film simulation)', 'Polaroid 667 (film simulation)', 'Polaroid 672 (film simulation)', 'Polaroid 665 (film simulation)', 'Polaroid 665 Negative (film simulation)', 'Fuji FP-3000b (film simulation)', 'Fuji FP-3000b Negative (film simulation)', 'Eastman Double-X 5222 (film simulation)'],
+    'q28_gmicfilm_instant': ['Polaroid PX-100UV+ (film simulation)', 'Polaroid PX-680 (film simulation)', 'Polaroid PX-70 (film simulation)', 'Polaroid Time Zero Expired (film simulation)', 'Polaroid Polachrome (film simulation)', 'Polaroid 690 (film simulation)', 'Fuji FP-100c Negative (film simulation)'],
+    'q28_gmicfilm_neg': ['Fuji Superia 200 (film simulation)', 'Fuji Superia HG 1600 (film simulation)', 'Fuji Superia Reala 100 (film simulation)', 'Fuji Superia X-Tra 800 (film simulation)', 'Fuji 160C (film simulation)', 'Fuji 800Z (film simulation)', 'Kodak Elite Color 200 (film simulation)', 'Kodak Elite Color 400 (film simulation)', 'Kodak Portra 160 NC (film simulation)', 'Kodak Portra 160 VC (film simulation)', 'Kodak Portra 400 NC (film simulation)', 'Kodak Portra 400 UC (film simulation)', 'Kodak Portra 400 VC (film simulation)'],
+    'q28_gmicfilm_slide': ['Fuji Superia 200 XPRO (film simulation)', 'Fuji Provia 400F (film simulation)', 'Fuji Provia 400X (film simulation)', 'Kodak Elite 100 XPRO (film simulation)', 'Kodak Elite ExtraColor 100 (film simulation)', 'Kodak Ektachrome 100 VS (film simulation)', 'Kodak Kodachrome 25 (film simulation)', 'Kodak Kodachrome 200 (film simulation)', 'Fuji 3510 print film (film simulation)', 'Fuji 3513 print film (film simulation)'],
+    'q28_doog': ['Difference of Offset Gaussians (DOOG)'],
+    'q28_zh_corner': ['Zuniga-Haralick facet corner'],
+    'q28_agast': ['AGAST keypoints'],
+}

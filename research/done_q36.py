@@ -1,0 +1,15 @@
+DONE_PART = {
+    'q36_rgbindex3': ['GLAI green leaf area index', 'Overall saturation index (SAT)', 'Overall hue index (HUE)', 'Brightness index BI (soil)', 'Hue index HI (soil)', 'Coloration index CI', 'True colour vegetation index TCVI', 'Green-red ratio index GRRI', 'Red-blue ratio index RBRI', 'NRBDI normalised red-blue difference index'],
+    'rgbindex2': ['Spectral-slope saturation index SI', 'Green-blue index GBI'],
+    'q17_ctwindow': ['Hounsfield-unit windowing (CT)'],
+    'q36_medxform': ['Ultrasound log compression', 'Optical density transform (Beer-Lambert)'],
+    'q36_curtain': ['FIB-SEM curtaining removal'],
+    'q36_ringart': ['Ring artifact removal (CT)'],
+    'q36_gibbs': ['Gibbs ringing removal (Kellner 2016)'],
+    'q36_specendo': ['Specular reflection removal (endoscopy)'],
+    'q36_fundus': ['Fundus image enhancement (luminosity & contrast normalisation)'],
+    'q36_itmo': ['Akyuz linear-gamma expansion (2007)', 'Rempel LDR2HDR brightness enhancement (2007)', 'Kovaleski-Oliveira bilateral expansion (2009)', 'Huo physiological inverse tone mapping (2014)', 'Masia exposure-adaptive gamma expansion (2009)'],
+    'q36_lcis': ['LCIS low-curvature image simplifier (Tumblin-Turk 1999)'],
+    'q36_spacek': ['Spacek optimal edge detector (1986)'],
+    'q36_pb': ['Pb probability of boundary (Martin-Fowlkes-Malik 2004)'],
+}

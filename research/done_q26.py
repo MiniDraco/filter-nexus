@@ -1,0 +1,16 @@
+DONE_PART = {
+    "q26_mpvscale": ["NVIDIA Image Scaling (NIS)", "SGSR (Snapdragon Game Super Resolution)", "Antiringing (libplacebo)", "Sphinx window", "Kaiser window", "Blackman window"],
+    "q26_anime4k_ops": ["Anime4K Thin", "Anime4K Darken", "Anime4K Clamp Highlights", "Anime4K Deblur DoG"],
+    "q26_hdeband": ["hdeband"],
+    "q26_uni_glow": ["uni.Glo Fi", "uni.Glimmer", "uni.Ecto", "uni.OverLight", "uni.Luster"],
+    "q26_uni_retro": ["uni.MisFire", "uni.RetroGrade", "uni.Analog (Universe)", "uni.AV Club", "uni.Holomatrix II"],
+    "q26_uni_finish": ["uni.Finisher", "uni.ShrinkRay", "uni.ChromaTown", "uni.Spectralicious"],
+    "q26_pd_distort": ["Figured Glass (PhotoDemon)", "Donut (PhotoDemon)", "Poke (PhotoDemon)", "Squish (PhotoDemon)"],
+    "q26_pd_light": ["Black Light (PhotoDemon)", "Atmosphere (PhotoDemon)", "Ignite (PhotoDemon)", "Portrait Glow (PhotoDemon)"],
+    "q26_pd_art": ["Modern Art (PhotoDemon)", "Gradient Flow (PhotoDemon)"],
+    "q26_equations": ["Equations (Affinity)"],
+    "q26_alphamath": ["Divide by Alpha", "Multiply by Alpha", "Remove White Matte"],
+    "custom": ["Custom Blur (Affinity)"],
+    "retro_bitdepth": ["Web Safe Dither"],
+    "q26_jointbilateral": ["jointBilateralFilter"],
+}

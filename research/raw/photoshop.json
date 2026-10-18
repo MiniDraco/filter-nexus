@@ -1,0 +1,740 @@
+[
+ {
+  "name": "Colored Pencil",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Cutout",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Dry Brush",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Film Grain",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Fresco",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Neon Glow",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Paint Daubs",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Palette Knife",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Plastic Wrap",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Poster Edges",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Rough Pastels",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Smudge Stick",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Sponge",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Underpainting",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Watercolor",
+  "group": "Artistic",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Average",
+  "group": "Blur",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Blur",
+  "group": "Blur",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Blur More",
+  "group": "Blur",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Box Blur",
+  "group": "Blur",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Gaussian Blur",
+  "group": "Blur",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Lens Blur",
+  "group": "Blur",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Motion Blur",
+  "group": "Blur",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Radial Blur",
+  "group": "Blur",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Shape Blur",
+  "group": "Blur",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Smart Blur",
+  "group": "Blur",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Surface Blur",
+  "group": "Blur",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Accented Edges",
+  "group": "Brush Strokes",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Angled Strokes",
+  "group": "Brush Strokes",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Crosshatch",
+  "group": "Brush Strokes",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Dark Strokes",
+  "group": "Brush Strokes",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Ink Outlines",
+  "group": "Brush Strokes",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Spatter",
+  "group": "Brush Strokes",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Sprayed Strokes",
+  "group": "Brush Strokes",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Sumi-e",
+  "group": "Brush Strokes",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Diffuse Glow",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Displace",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Glass",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Ocean Ripple",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Pinch",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Polar Coordinates",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Ripple",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Shear",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Spherize",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Twirl",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Wave",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "ZigZag",
+  "group": "Distort",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Add Noise",
+  "group": "Noise",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Despeckle",
+  "group": "Noise",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Dust & Scratches",
+  "group": "Noise",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Median",
+  "group": "Noise",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Reduce Noise",
+  "group": "Noise",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Color Halftone",
+  "group": "Pixelate",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Crystallize",
+  "group": "Pixelate",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Facet",
+  "group": "Pixelate",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Fragment",
+  "group": "Pixelate",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Mezzotint",
+  "group": "Pixelate",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Mosaic",
+  "group": "Pixelate",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Pointillize",
+  "group": "Pixelate",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Clouds",
+  "group": "Render",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Difference Clouds",
+  "group": "Render",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Fibers",
+  "group": "Render",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Lens Flare",
+  "group": "Render",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Sharpen",
+  "group": "Sharpen",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Sharpen More",
+  "group": "Sharpen",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Sharpen Edges",
+  "group": "Sharpen",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Unsharp Mask",
+  "group": "Sharpen",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Smart Sharpen",
+  "group": "Sharpen",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Bas Relief",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Chalk & Charcoal",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Charcoal",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Chrome",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Conté Crayon",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Graphic Pen",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Halftone Pattern",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Photocopy",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Plaster",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Reticulation",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Stamp",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Torn Edges",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Water Paper",
+  "group": "Sketch",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Diffuse",
+  "group": "Stylize",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Emboss",
+  "group": "Stylize",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Extrude",
+  "group": "Stylize",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Find Edges",
+  "group": "Stylize",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Glowing Edges",
+  "group": "Stylize",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Solarize",
+  "group": "Stylize",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Tiles",
+  "group": "Stylize",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Trace Contour",
+  "group": "Stylize",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Wind",
+  "group": "Stylize",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Craquelure",
+  "group": "Texture",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Grain",
+  "group": "Texture",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Mosaic Tiles",
+  "group": "Texture",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Patchwork",
+  "group": "Texture",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Stained Glass",
+  "group": "Texture",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Texturizer",
+  "group": "Texture",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "De-Interlace",
+  "group": "Video",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "NTSC Colors",
+  "group": "Video",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Custom",
+  "group": "Other",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "High Pass",
+  "group": "Other",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Maximum",
+  "group": "Other",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Minimum",
+  "group": "Other",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Offset",
+  "group": "Other",
+  "url": "https://helpx.adobe.com/photoshop/using/filter-effects-reference.html"
+ },
+ {
+  "name": "Field Blur",
+  "group": "Blur Gallery",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Iris Blur",
+  "group": "Blur Gallery",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Tilt-Shift",
+  "group": "Blur Gallery",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Path Blur",
+  "group": "Blur Gallery",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Spin Blur",
+  "group": "Blur Gallery",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Lighting Effects",
+  "group": "Render",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Flame",
+  "group": "Render",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Picture Frame",
+  "group": "Render",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Tree",
+  "group": "Render",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Oil Paint",
+  "group": "Stylize",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Note Paper",
+  "group": "Sketch",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Shake Reduction",
+  "group": "Sharpen",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "HSB/HSL",
+  "group": "Other",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Generate Bump Map",
+  "group": "3D (removed 2024)",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Generate Normal Map",
+  "group": "3D (removed 2024)",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "New Mesh from Layer › Depth Map",
+  "group": "3D (removed 2024)",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Brightness/Contrast",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Levels",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Curves",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Exposure",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Vibrance",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Hue/Saturation",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Color Balance",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Black & White",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Photo Filter",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Channel Mixer",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Color Lookup",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Invert",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Posterize",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Threshold",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Gradient Map",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Selective Color",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Shadows/Highlights",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "HDR Toning",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Desaturate",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Match Color",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Replace Color",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ },
+ {
+  "name": "Equalize",
+  "group": "Adjustments",
+  "url": "",
+  "note": "menu item not on the reference page"
+ }
+]

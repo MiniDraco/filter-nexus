@@ -1,0 +1,17 @@
+DONE_PART = {
+    'q47_ffsurface': ['Sandpaper (Filter Forge)', 'Tin Can (Filter Forge)', 'Styrofoam Image (Filter Forge)', 'Suede (Filter Forge)', 'Picture to Plush (Filter Forge)', 'Patina (Filter Forge)', 'Corrugated Metal (Filter Forge)'],
+    'q47_fftexture': ['Mulberry Paper (Filter Forge)', 'Raked Sand (Filter Forge)', 'Thatched (Filter Forge)', 'Changeable Taffeta fabric (Filter Forge)', 'Sequined (Filter Forge)'],
+    'q47_ffobject': ['Lunar Phases (Filter Forge)', 'Realistic Vinyl record (Filter Forge)', 'Wax Seal (Filter Forge)', 'Wood Burning pyrography (Filter Forge)', 'Lathe Custom Profile (Filter Forge)'],
+    'q47_lightsaber': ['Lightsaber glow (Filter Forge)'],
+    'q47_ffoverlay': ['Bullet Holes in Picture (Filter Forge)', 'Mystery Science Theater 3000 silhouette overlay (Filter Forge)', "Rubik's Cube (Filter Forge)", 'Tire Tracks (Filter Forge)'],
+    'q47_fflook': ['Cave Paintings (Filter Forge)', 'Electron Microscope look (Filter Forge)', 'TV Circuit Bending (Filter Forge)'],
+    'q47_cowify': ['Cowify cow-spot pattern (Filter Forge)'],
+    'q47_playingcard': ['Playing Card (Filter Forge)'],
+    'q47_adelson': ["Adelson's checker-shadow squares generator (Fiji Adelson's Squares)"],
+    'q47_quiver': ['Quiver plot of vector field (Fiji Quiver Plot)'],
+    'q47_redmagenta': ['Replace red with magenta merge (Fiji)'],
+    'q47_shepplogan': ['Shepp-Logan phantom (Fiji BIG-EPFL)'],
+    'q47_prismdisp': ['Prism Displacement oily/opalescent (Red Giant Universe)'],
+    'q47_quantum': ['Quantum animated light trail behind layer (Red Giant Universe)'],
+    'q30_revtv': ['Rutt-Etra scan-processor lines (Filter Forge)'],
+}
